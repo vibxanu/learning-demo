@@ -1,4 +1,4 @@
-# learning-demo
+cd# learning-demo
 this is my first git
 <br>
-Author:mehak
+Author:mehak shehzadi
